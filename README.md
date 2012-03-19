@@ -60,6 +60,7 @@ Créditos
 --------
 
 @wmarcos -- Traducción al Español
+@chinshr -- Spanish branch
 
 Copyright
 ---------
