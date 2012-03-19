@@ -1,5 +1,5 @@
-Ruby on Rails for Developers
-============================
+Ruby on Rails para Desarrolladores
+==================================
 
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
@@ -59,7 +59,7 @@ Este curso ha sido producida en colaboración con [Pivotal Labs](http://pivotall
 Créditos
 --------
 
-@wmarcos -- Traducción al español
+@wmarcos -- Traducción al Español
 
 Copyright
 ---------
