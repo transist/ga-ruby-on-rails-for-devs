@@ -1,12 +1,12 @@
-Lecture 1: Developer Workflow
+第一课: 开发者工作流
 =============================
 
-Objective
+目 标
 ---------
 
-Learn the typical developer workflow used by the Ruby-on-Rails community. Understand Git and how it works with Github. 
+学习Ruby on Rails社区典型的开发者工作流，理解Git和怎么样用Github来进行工作。
 
-Class Materials
+课程材料
 ---------------
 
 * [Git via Github and Dev Workflow](1.1-git-workflow.md)
