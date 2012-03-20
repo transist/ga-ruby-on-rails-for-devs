@@ -1,12 +1,12 @@
-Introduction: Getting Started
+引言: 开始干活
 =============================
 
-Objective
+目 标
 ---------
 
-Setup a development environment and learn about the origins of Ruby.
+设置一个开发环境，并开始学习Ruby的起源。
 
-Class Materials
+课程材料
 ---------------
 
 * [Why Ruby?](0.1-happiness.md)
