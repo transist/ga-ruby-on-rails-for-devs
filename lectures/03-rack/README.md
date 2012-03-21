@@ -1,12 +1,12 @@
-Lecture 3: Rack
+第3课: Rack
 ===============
 
-Objective
+目 标
 ---------
 
-Learn about Rack and build a simple web application.
+学习关于Rack的知识，并能够构建一个简单的Web应用。
 
-Class Materials
+课 程 材 料
 ---------------
 
 * [Introduction to Rack](3.1-rack-basics.md)
