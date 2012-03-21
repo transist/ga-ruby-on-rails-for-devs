@@ -1,18 +1,18 @@
-Lecture 2: Ruby Basics
+第2课: Ruby基础
 ======================
 
-Objective
+目 标
 ---------
 
-Learn Ruby basics with special focus on how it differs from other mainstream programming languages. Learn Ruby OOP and implement a non-trivial extension to an existing Ruby class.
+学习Ruby基础知识，主要着力于认识和其他主流编程语言的区别。学习Ruby面向对象编程的和从一个已经存在的Ruby类实现一个非平凡的扩展。
 
-Class Materials
+课程 材料
 ---------------
 
 * [Basic Language Concepts](2.1-ruby-basics.md)
 * [Ruby OOP, Exceptions and Mixins](2.2-ruby-oop.md)
 
-Extra Reading
+扩展 阅读
 -------------
 
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
