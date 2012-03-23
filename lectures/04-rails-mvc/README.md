@@ -1,12 +1,12 @@
-Lecture 4: Rails MVC
+第4课: Rails MVC
 ====================
 
-Objective
+目 标
 ---------
 
-Build a basic Rails application with Rails tools, then from scratch. Exercise the fundamentals of test-driven development.
+使用Rails工具从头开始构建一个基础的Rails应用。练习测试驱动开发（TDD）的基础。
 
-Class Materials
+课 程 材 料
 ---------------
 
 * [Introduction to Rails](4.1-rails-basics.md)
