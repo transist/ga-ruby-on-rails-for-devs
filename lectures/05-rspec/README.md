@@ -1,10 +1,10 @@
-Lecture 5: RSpec
+第5课: RSpec
 ================
 
-Objective
+目标
 ---------
 
-Learn about Behavior Driven Development with RSpec.
+学习使用RSpec进行行为驱动测试（BDD）
 
 Class Materials
 ---------------
