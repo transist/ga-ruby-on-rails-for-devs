@@ -1,10 +1,10 @@
-Lecture 6: Ruby Meta-Programming
+Lecture 6: Ruby元编程
 ================================
 
-Objective
+目标
 ---------
 
-Learn about Ruby meta-programming.
+学习Ruby的元编程、
 
 Class Materials
 ---------------
