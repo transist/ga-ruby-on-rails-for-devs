@@ -1,10 +1,10 @@
-Lecture 7: Active-Record
+第7课: Active-Record
 ========================
 
-Objective
+目 标
 ---------
 
-Dive into `ActiveRecord`.
+深入`ActiveRecord`.
 
 Class Materials
 ---------------
