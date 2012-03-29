@@ -1,18 +1,19 @@
-Lecture 10: RESTful APIs
+第10课: RESTful APIs
 ========================
 
-Objective
+目标
 ---------
 
-Develop a practical RESTful API.
+开发一个实际的RESTful API。
 
 REST
 ----
 
-REST stands for *Representational State Transfer*. It's an architecture style for designing networked applications. REST is all about exposing *resources* via HTTP.
+REST的意思是*表述性状态转移 Representational State Transfer*。这是一种设计网络应用的架构风格。REST关于的是通过HTTP来曝露*resources*。
 
 Class Materials
 ---------------
 
 * [RESTful in Rails](10.1-restful-rails.md)
+
 
