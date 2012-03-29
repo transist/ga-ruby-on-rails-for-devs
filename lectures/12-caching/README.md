@@ -1,12 +1,12 @@
-Lecture 12: Caching
+第12课: Caching
 ===================
 
-*There are only two hard things in Computer Science: cache invalidation and naming things. -- Phil Karlton*
+*计算机科学只有两件事很困难：无效的cache和命名。 -- Phil Karlton*
 
-Objective
+目标
 ---------
 
-Explore caching in Rails.
+探索Rails里的cache.
 
 Class Materials
 ---------------
