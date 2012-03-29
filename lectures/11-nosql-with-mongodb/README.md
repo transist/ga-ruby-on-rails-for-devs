@@ -1,10 +1,10 @@
-Lecture 11: NoSQL with MongoDB
+第11课: NoSQL 与 MongoDB
 ==============================
 
-Objective
+目标
 ---------
 
-Explore the basics of a NoSQL store with MongoDB.
+探索基础的使用MongoDB的NoSQL存储。
 
 Class Materials
 ---------------
