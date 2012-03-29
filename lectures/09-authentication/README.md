@@ -1,10 +1,10 @@
-Lecture 9: RESTful Authentication
+第9课: RESTful授权系统
 =================================
 
-Objective
+目标
 ---------
 
-Introduce RESTful with users and user sessions.
+用users和user session来介绍RESTful。
 
 Class Materials
 ---------------
